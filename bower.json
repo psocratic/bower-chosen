@@ -47,7 +47,6 @@
     "url": "https://github.com/harvesthq/chosen"
   },
   "dependencies": {
-    "jquery": ">=1.4.4"
   },
   "devDependencies": []
 }
